@@ -122,13 +122,7 @@ npm run start
 | `/api/purchase/add` | `POST` | Record a new purchase |
 | `/api/purchase/all` | `GET` | Fetch all purchases (filtered by storeEmail) |
 
-## 🛠️ Contributing
-We welcome contributions! Follow these steps:
-1. **Fork the repo**
-2. **Create a branch:** `git checkout -b feature-branch`
-3. **Commit changes:** `git commit -m "Added feature"`
-4. **Push branch:** `git push origin feature-branch`
-5. **Open a Pull Request**
+
 
 
 
